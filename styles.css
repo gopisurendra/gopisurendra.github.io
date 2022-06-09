@@ -1,8 +1,8 @@
 h{
-  color:red;
+  color:red !important;
   font-stle: bold;
-  background-color: yellow;
-  text-align: left;
+  background-color: yellow !important;
+  text-align: left !important;
 }
 p{
   color:red;
